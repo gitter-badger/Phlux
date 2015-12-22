@@ -1,6 +1,8 @@
 Phlux
 =======
 
+[![Join the chat at https://gitter.im/konmik/Phlux](https://badges.gitter.im/konmik/Phlux.svg)](https://gitter.im/konmik/Phlux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Phlux is an Android library which helps to architect applications in a functional way (with immutable data in mind).
 
 It is inspired by Clojure and Facebook Flux.
